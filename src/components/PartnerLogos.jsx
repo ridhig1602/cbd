@@ -20,15 +20,14 @@ const partnerBrands = [
   { name: "Mother Dairy", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756317177/Mother_Dairy.svg_j84cj5.png" },
   { name: "Unidays", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756317177/Social-Imagery-47_visg4h.webp" },
   { name: "Cloud Native Community groups", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756317177/CNCF_Community_Groups_Logo_2023_PRjuBUd_zvgrko.webp" },
-  { name: "MapmyIndia", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756317177/images_s3lguz.jpg" },
+  { name: "MapmyIndia", logoUrl: "/mapmyindia_new.png" },
   { name: "Bistro 57", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756317176/360_F_238159412_HhVnn8jBWgYG9IoRSlPw2Iz5FMZz93CH_sly5np.jpg" },
-  { name: "Reskill", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756321734/reskilll_paqslv.png" },
   { name: "Launched Global", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756321570/Screenshot_2025-08-28_at_12.35.41_AM_eqnlbo.png" },
   { name: "Microsoft Azure", logoUrl: "https://res.cloudinary.com/dcvl4olut/image/upload/f_auto,q_auto,w_250/v1756318894/Microsoft-Azure-Logo_vvmcjr.png" },
   { name: "MAIT", logoUrl: "/mait.png" },
-  { name: "PVR Cinemas", logoUrl: "/pvr.png" },
+  { name: "PVR Cinemas", logoUrl: "/pvr_new.png" },
   { name: "Mercedes-Benz", logoUrl: "/merc.png" },
-  { name: "CSI", logoUrl: "/csilogo.webp" }
+  { name: "CSI Innowave", logoUrl: "/csi_innowave.jpg" }
 ];
 
 export default function PartnerLogos() {
