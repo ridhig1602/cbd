@@ -298,8 +298,6 @@ export default function HeroA() {
             {/* Row 2, Bento 4: Core Idea Verticals Toggle Panel (Span 6) */}
             <div
               className="bento-card bento-toggles"
-              onMouseEnter={() => triggerCursor("Who We Help! ✨")}
-              onMouseLeave={hideCursor}
             >
               <div>
                 <span style={{ fontSize: "10px", fontWeight: 800, color: "var(--sage)", textTransform: "uppercase" }}>
